@@ -21,7 +21,7 @@ jobs:
 
     env:
       SESSION_ID: 𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=DqhXEBxK#m-Tgz1pbA6d5wuYu9pJaXfWb3aEuLDbHqXnj1ux09r8
-      GITHUB_AUTH_TOKEN: Enter Your GITHUB_AUTH_TOKEN
+      GITHUB_AUTH_TOKEN: https://github.com/ASITHA-MD/ASITHA-MD
       GITHUB_USERNAME : Aslammodz
 
     steps:
